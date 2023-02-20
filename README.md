@@ -33,5 +33,5 @@ Follow the steps:
 
 ----- HOMEWORK TWO -----
 Task One
-S3 Bucket: https://cilga-aws-course-spa.s3.eu-central-1.amazonaws.com/index.html
+S3 Website: http://cilga-aws-course-spa.s3-website.eu-central-1.amazonaws.com
 Cloudfront: d147q802tvzyn4.cloudfront.net
