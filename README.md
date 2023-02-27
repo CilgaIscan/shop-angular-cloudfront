@@ -29,3 +29,9 @@ Follow the steps:
 - git clone
 - npm i
 - ng serve
+
+
+----- HOMEWORK TWO -----
+Task One
+S3 Website: http://cilga-aws-course-spa.s3-website.eu-central-1.amazonaws.com
+Cloudfront: d147q802tvzyn4.cloudfront.net
