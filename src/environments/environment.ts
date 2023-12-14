@@ -7,11 +7,11 @@ import { Config } from './config.interface';
 export const environment: Config = {
   production: false,
   apiEndpoints: {
-    product: 'http://localhost:9000/',
-    order: 'http://localhost:9000/',
-    import: 'http://localhost:9000/',
-    bff: 'http://localhost:9000/',
-    cart: 'http://localhost:9000/',
+    product: '/api/',
+    order: '/api/',
+    import: '/api/',
+    bff: '/api/',
+    cart: '/api/',
   },
   apiEndpointsEnabled: {
     product: false,
